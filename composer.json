@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/apiclient": "^2.0",
+        "sunra/php-simple-html-dom-parser": "1.5.2"
+    }
+}
