@@ -1,5 +1,5 @@
 ## Requirements
-To run this quickstart, you'll need:
+To run this script, you'll need:
 
 1. PHP 5.4 or greater with the command-line interface (CLI) and JSON extension installed.
 1. The [Composer](https://getcomposer.org/) dependency management tool.
@@ -24,6 +24,7 @@ To run this quickstart, you'll need:
 1. date_end "Y-m-d" ex: `2017-12-31`
 
 **Run**
+open your terminal and run this :
 `php example.php date_start="2017-12-01" date_end="2017-12-31" > scrapmail.html`
 
 
